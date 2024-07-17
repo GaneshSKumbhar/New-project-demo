@@ -1,3 +1,4 @@
 # New-project-demo
 Learn about git-hub
-Autor : Ganesh Kumbhar
+<br>
+Author : Ganesh Kumbhar
